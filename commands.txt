@@ -1,0 +1,6 @@
+import - [type] [arg1] .... Import deadlines from source
+imports - show all imports
+remove_import - [id] remove import with id
+add_offset - [minutes] Notify me [minutes] before deadline
+offsets - show all offsets
+remove_offset - [id] remove offset with id
